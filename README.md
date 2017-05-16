@@ -7,6 +7,7 @@ Se pueden realizar:
  - **Android**
  
 Repo de referencia: https://github.com/DevPicon/kotlin-workshop-androidtitlan
+
 Más referencias en: https://kotlinlang.org
 
 ![Logo de Kotlin](https://kotlinlang.org/assets/images/open-graph/kotlin_250x250.png)
